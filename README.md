@@ -4,6 +4,7 @@
 (a)
 ![2](https://user-images.githubusercontent.com/100519341/155895045-01c8a260-dc01-497e-9c33-af84b82f3e21.png)
 (b)
+
 Fig. 1: (a) Ideal BGR characteristics, (b) Practical BGR characteristics.
 
 •	Circuit Implementation of BGR
