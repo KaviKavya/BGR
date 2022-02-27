@@ -2,7 +2,7 @@
 
 This repository presents the design of Curvature Compensated CMOS BandGap Reference Circuit implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
 
-•	BandGap Reference Methodology
+**•	BandGap Reference Methodology**
 
 ![1](https://user-images.githubusercontent.com/100519341/155895043-0283497e-d961-465d-bdf8-266634367d18.png)
 (a)
@@ -12,25 +12,25 @@ This repository presents the design of Curvature Compensated CMOS BandGap Refere
 
 Fig. 1: (a) Ideal BGR characteristics, (b) Practical BGR characteristics.
 
-•	Circuit Implementation of BGR
+**•	Circuit Implementation of BGR**
 
 ![3](https://user-images.githubusercontent.com/100519341/155895048-ea446ca1-f12d-499b-b691-e84787673adb.png)
 
 Fig. 2: Circuit implementation of BGR.
 
-•	Curvature Compensation Technique
+**•	Curvature Compensation Technique**
 
 ![4](https://user-images.githubusercontent.com/100519341/155895049-140156f3-da52-4ab2-b5f0-71afe2c55ead.png)
  
 Fig. 3: Curvature compensation method for BGR
 
-•	Circuit Implementation of Curvature Compensation Technique
+**•	Circuit Implementation of Curvature Compensation Technique**
 
  ![5](https://user-images.githubusercontent.com/100519341/155895050-7af1a293-4b3f-44ac-b2ef-d7c791da48b8.png)
 
 Fig. 4: Circuit implementation of curvature compensation technique
 
-•	Simulation Results
+**•	Simulation Results**
 
 ![6](https://user-images.githubusercontent.com/100519341/155895052-64ca781a-3e64-436e-8ad6-fd8aa1b70a9c.png)
 
@@ -44,7 +44,7 @@ Fig. 6: Current variation with respect to temperature in BGR curvature compensat
 
 Fig. 7: Reference voltage variation with respect to temperature with curvature compensation.
 
-•	Acknowledgements
+**•	Acknowledgements**
 
 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 
@@ -56,6 +56,6 @@ Sameer Durgoji, NIT Karnataka
 
 Chinmay panda, IIT Hyderabad
 
-•	References
+**•	References**
 
 [1]	H. -M. Chen, C. -C. Lee, S. -H. Jheng, W. -C. Chen and B. -Y. Lee, “A Sub-1 ppm/◦C Precision Bandgap Reference With Adjusted-Temperature-Curvature Compensation,” in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 64, no. 6, pp. 1308-1317, June 2017.
