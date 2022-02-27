@@ -32,7 +32,6 @@ Fig. 4: Circuit implementation of curvature compensation technique
 
 Fig. 5: Reference voltage variation with respect to temperature without curvature compensation.
 
-
 ![7](https://user-images.githubusercontent.com/100519341/155895054-b7f01d37-800b-4d17-82dd-986ce4a8c4bd.png)
 
 Fig. 6: Current variation with respect to temperature in BGR curvature compensation circuit.
@@ -40,3 +39,15 @@ Fig. 6: Current variation with respect to temperature in BGR curvature compensat
 ![8](https://user-images.githubusercontent.com/100519341/155895057-c10d7a91-8a25-4ba7-a619-a942d31d7110.png)
 
 Fig. 7: Reference voltage variation with respect to temperature with curvature compensation.
+
+•	Acknowledgements
+
+Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+
+Cloud Based Analog IC Design Hackathon
+
+Synopsys India
+
+Sameer Durgoji, NIT Karnataka
+
+Chinmay panda, IIT Hyderabad
