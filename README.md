@@ -1,4 +1,4 @@
-Curvature Compensated CMOS BandGap Reference Circuit in 28nm CMOS Technology
+**•	Curvature Compensated CMOS BandGap Reference Circuit in 28nm CMOS Technology**
 
 This repository presents the design of Curvature Compensated CMOS BandGap Reference Circuit implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
 
