@@ -2,17 +2,20 @@
 
 ![1](https://user-images.githubusercontent.com/100519341/155895043-0283497e-d961-465d-bdf8-266634367d18.png)
 (a)
+
 ![2](https://user-images.githubusercontent.com/100519341/155895045-01c8a260-dc01-497e-9c33-af84b82f3e21.png)
 (b)
 
 Fig. 1: (a) Ideal BGR characteristics, (b) Practical BGR characteristics.
 
 •	Circuit Implementation of BGR
+
 ![3](https://user-images.githubusercontent.com/100519341/155895048-ea446ca1-f12d-499b-b691-e84787673adb.png)
 
 Fig. 2: Circuit implementation of BGR.
 
 •	Curvature Compensation Technique
+
 ![4](https://user-images.githubusercontent.com/100519341/155895049-140156f3-da52-4ab2-b5f0-71afe2c55ead.png)
  
 Fig. 3: Curvature compensation method for BGR
