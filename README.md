@@ -1,3 +1,7 @@
+Curvature Compensated CMOS BandGap Reference Circuit in 28nm CMOS Technology
+
+This repository presents the design of Curvature Compensated CMOS BandGap Reference Circuit implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
+
 •	BandGap Reference Methodology
 
 ![1](https://user-images.githubusercontent.com/100519341/155895043-0283497e-d961-465d-bdf8-266634367d18.png)
@@ -51,3 +55,7 @@ Synopsys India
 Sameer Durgoji, NIT Karnataka
 
 Chinmay panda, IIT Hyderabad
+
+•	References
+
+[1]	H. -M. Chen, C. -C. Lee, S. -H. Jheng, W. -C. Chen and B. -Y. Lee, “A Sub-1 ppm/◦C Precision Bandgap Reference With Adjusted-Temperature-Curvature Compensation,” in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 64, no. 6, pp. 1308-1317, June 2017.
